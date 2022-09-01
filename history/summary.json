@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/webhooks.sweebot.fr",
     "slug": "webhooks",
     "status": "down",
-    "uptime": "96.82%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "96.82%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "96.82%",
-    "time": 1007,
-    "timeDay": 1007,
-    "timeWeek": 1007,
-    "timeMonth": 1007,
-    "timeYear": 1007,
+    "uptime": "0.66%",
+    "uptimeDay": "0.66%",
+    "uptimeWeek": "0.66%",
+    "uptimeMonth": "0.66%",
+    "uptimeYear": "0.66%",
+    "time": 1199,
+    "timeDay": 1199,
+    "timeWeek": 1199,
+    "timeMonth": 1199,
+    "timeYear": 1199,
     "dailyMinutesDown": {
-      "2022-08-31": 0
+      "2022-09-01": 40,
+      "2022-08-31": 727
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 245,
+    "timeDay": 245,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   }
 ]
