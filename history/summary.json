@@ -1,41 +1,42 @@
 [
   {
-    "name": "Webhooks",
+    "name": "SweeBOT/Webhooks",
     "url": "https://webhooks.sweebot.fr/health",
     "icon": "https://favicons.githubusercontent.com/webhooks.sweebot.fr",
-    "slug": "webhooks",
+    "slug": "swee-bot-webhooks",
     "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
-    "time": 1199,
-    "timeDay": 1199,
-    "timeWeek": 1199,
-    "timeMonth": 1199,
-    "timeYear": 1199,
+    "uptime": "45.70%",
+    "uptimeDay": "45.70%",
+    "uptimeWeek": "45.70%",
+    "uptimeMonth": "45.70%",
+    "uptimeYear": "45.70%",
+    "time": 2059,
+    "timeDay": 2059,
+    "timeWeek": 2059,
+    "timeMonth": 2059,
+    "timeYear": 2059,
     "dailyMinutesDown": {
-      "2022-09-01": 40,
-      "2022-08-31": 727
+      "2022-09-01": 0
     }
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
-    "dailyMinutesDown": {}
+    "name": "TacxTV/Cluster1",
+    "url": "http://cluster1.tacxtv.fr:2500/",
+    "icon": "https://favicons.githubusercontent.com/cluster1.tacxtv.fr",
+    "slug": "tacx-tv-cluster1",
+    "status": "down",
+    "uptime": "28.33%",
+    "uptimeDay": "28.33%",
+    "uptimeWeek": "28.33%",
+    "uptimeMonth": "28.33%",
+    "uptimeYear": "28.33%",
+    "time": 519,
+    "timeDay": 519,
+    "timeWeek": 519,
+    "timeMonth": 519,
+    "timeYear": 519,
+    "dailyMinutesDown": {
+      "2022-09-01": 0
+    }
   }
 ]
