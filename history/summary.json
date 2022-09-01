@@ -1,42 +1,40 @@
 [
   {
     "name": "SweeBOT/Webhooks",
-    "url": "https://webhooks.sweebot.fr/health",
+    "url": "https://webhooks.sweebot.fr/",
     "icon": "https://favicons.githubusercontent.com/webhooks.sweebot.fr",
     "slug": "swee-bot-webhooks",
-    "status": "down",
-    "uptime": "5.27%",
-    "uptimeDay": "5.27%",
-    "uptimeWeek": "5.27%",
-    "uptimeMonth": "5.27%",
-    "uptimeYear": "5.27%",
-    "time": 1965,
-    "timeDay": 1965,
-    "timeWeek": 1965,
-    "timeMonth": 1965,
-    "timeYear": 1965,
+    "status": "up",
+    "uptime": "4.90%",
+    "uptimeDay": "4.90%",
+    "uptimeWeek": "4.90%",
+    "uptimeMonth": "4.90%",
+    "uptimeYear": "4.90%",
+    "time": 1569,
+    "timeDay": 1569,
+    "timeWeek": 1569,
+    "timeMonth": 1569,
+    "timeYear": 1569,
     "dailyMinutesDown": {
-      "2022-09-01": 2
+      "2022-09-01": 3
     }
   },
   {
     "name": "TacxTV/Cluster1",
-    "url": "http://cluster1.tacxtv.fr:2500/",
+    "url": "http://cluster1.tacxtv.fr:2500/top",
     "icon": "https://favicons.githubusercontent.com/cluster1.tacxtv.fr",
     "slug": "tacx-tv-cluster1",
-    "status": "down",
-    "uptime": "1.75%",
-    "uptimeDay": "1.75%",
-    "uptimeWeek": "1.75%",
-    "uptimeMonth": "1.75%",
-    "uptimeYear": "1.75%",
-    "time": 524,
-    "timeDay": 524,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
-    "dailyMinutesDown": {
-      "2022-09-01": 1
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 743,
+    "timeDay": 743,
+    "timeWeek": 743,
+    "timeMonth": 743,
+    "timeYear": 743,
+    "dailyMinutesDown": {}
   }
 ]
