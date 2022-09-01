@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/webhooks.sweebot.fr",
     "slug": "swee-bot-webhooks",
     "status": "down",
-    "uptime": "23.43%",
-    "uptimeDay": "23.43%",
-    "uptimeWeek": "23.43%",
-    "uptimeMonth": "23.43%",
-    "uptimeYear": "23.43%",
-    "time": 2059,
-    "timeDay": 2059,
-    "timeWeek": 2059,
-    "timeMonth": 2059,
-    "timeYear": 2059,
+    "uptime": "5.27%",
+    "uptimeDay": "5.27%",
+    "uptimeWeek": "5.27%",
+    "uptimeMonth": "5.27%",
+    "uptimeYear": "5.27%",
+    "time": 1965,
+    "timeDay": 1965,
+    "timeWeek": 1965,
+    "timeMonth": 1965,
+    "timeYear": 1965,
     "dailyMinutesDown": {
-      "2022-09-01": 0
+      "2022-09-01": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/cluster1.tacxtv.fr",
     "slug": "tacx-tv-cluster1",
     "status": "down",
-    "uptime": "13.91%",
-    "uptimeDay": "13.91%",
-    "uptimeWeek": "13.91%",
-    "uptimeMonth": "13.91%",
-    "uptimeYear": "13.91%",
-    "time": 519,
-    "timeDay": 519,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "uptime": "1.75%",
+    "uptimeDay": "1.75%",
+    "uptimeWeek": "1.75%",
+    "uptimeMonth": "1.75%",
+    "uptimeYear": "1.75%",
+    "time": 524,
+    "timeDay": 524,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2022-09-01": 0
+      "2022-09-01": 1
     }
   }
 ]
