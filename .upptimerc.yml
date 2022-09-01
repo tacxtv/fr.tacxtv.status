@@ -3,7 +3,7 @@ repo: fr.tacxtv.status
 
 sites:
   - name: SweeBOT/Webhooks
-    url: https://webhooks.sweebot.fr/health
+    url: https://webhooks.sweebot.fr/
   - name: TacxTV/Cluster1
     url: http://cluster1.tacxtv.fr:2500/top
 
