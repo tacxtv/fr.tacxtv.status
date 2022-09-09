@@ -22,7 +22,7 @@
     "url": "http://cluster1.tacxtv.fr:2500/top",
     "icon": "https://favicons.githubusercontent.com/cluster1.tacxtv.fr",
     "slug": "tacx-tv-cluster1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 2122,
     "timeMonth": 1782,
     "timeYear": 1782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   }
 ]
