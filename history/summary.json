@@ -4,10 +4,10 @@
     "url": "https://webhooks.sweebot.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/webhooks.sweebot.fr.ico",
     "slug": "swee-bot-webhooks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 927,
@@ -15,7 +15,9 @@
     "timeWeek": 991,
     "timeMonth": 928,
     "timeYear": 927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-16": 1
+    }
   },
   {
     "name": "TacxTV/Cluster1",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cluster1.tacxtv.fr.ico",
     "slug": "tacx-tv-cluster1",
     "status": "down",
-    "uptime": "72.19%",
+    "uptime": "72.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.45%",
-    "uptimeYear": "72.19%",
+    "uptimeMonth": "79.62%",
+    "uptimeYear": "72.22%",
     "time": 1782,
     "timeDay": 0,
     "timeWeek": 0,
