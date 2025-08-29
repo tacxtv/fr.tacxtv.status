@@ -2,15 +2,21 @@ owner: tacxtv
 repo: fr.tacxtv.status
 
 sites:
-  - name: eco.tacxtv.fr
-    url: https://eco.tacxtv.fr/
+  - name: gateway.tacxtv.fr
+    url: gateway.tacxtv.fr
+    port: 443
   - name: tacxtv.fr
     url: https://tacxtv.fr
+  - name: eco.tacxtv.fr
+    url: https://eco.tacxtv.fr/
   - name: miratopia.tacxtv.fr
     url: https://miratopia.tacxtv.fr
 
 workflowSchedule:
   uptime: "*/15 * * * *"
+
+assignees: # Users to assign downtime issues (optional)
+  - tacxou
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
