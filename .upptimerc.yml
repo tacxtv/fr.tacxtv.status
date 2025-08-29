@@ -6,10 +6,13 @@ sites:
     url: gateway.tacxtv.fr
     check: "tcp-ping"
     port: 53
+
   - name: tacxtv.fr
     url: https://tacxtv.fr
+
   - name: eco.tacxtv.fr
     url: https://eco.tacxtv.fr/
+    
   - name: miratopia.tacxtv.fr
     url: https://miratopia.tacxtv.fr
 
