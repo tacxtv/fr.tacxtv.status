@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gateway-tacxtv-fr",
     "status": "down",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
+    "uptime": "43.89%",
+    "uptimeDay": "43.89%",
+    "uptimeWeek": "43.89%",
+    "uptimeMonth": "43.89%",
+    "uptimeYear": "43.89%",
     "time": 1236,
     "timeDay": 1236,
     "timeWeek": 1236,
     "timeMonth": 1236,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2025-08-29": 6
+      "2025-08-29": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -48,12 +48,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 781,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
+    "time": 804,
+    "timeDay": 804,
+    "timeWeek": 804,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "eco.tacxtv.fr (game)",
+    "url": "eco.tacxtv.fr",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "eco-tacxtv-fr-game",
+    "status": "down",
+    "uptime": "94.97%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "94.97%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "94.97%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-08-29": 0
+    }
   },
   {
     "name": "miratopia.tacxtv.fr",
@@ -66,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 301,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 277,
+    "timeDay": 277,
+    "timeWeek": 277,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   }
 ]
