@@ -4,7 +4,7 @@ repo: fr.tacxtv.status
 sites:
   - name: gateway.tacxtv.fr
     url: gateway.tacxtv.fr
-    port: 443
+    port: 80
   - name: tacxtv.fr
     url: https://tacxtv.fr
   - name: eco.tacxtv.fr
