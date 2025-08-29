@@ -12,7 +12,12 @@ sites:
 
   - name: eco.tacxtv.fr
     url: https://eco.tacxtv.fr/
-    
+
+  - name: eco.tacxtv.fr (game)
+    url: eco.tacxtv.fr
+    check: "tcp-ping"
+    port: 3000
+
   - name: miratopia.tacxtv.fr
     url: https://miratopia.tacxtv.fr
 
