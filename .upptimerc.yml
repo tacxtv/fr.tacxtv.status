@@ -2,10 +2,10 @@ owner: tacxtv
 repo: fr.tacxtv.status
 
 sites:
-  - name: Google
-    url: https://google.fr/
-  - name: Libertech
-    url: http://libertech.fr
+  - name: eco.tacxtv.fr
+    url: https://eco.tacxtv.fr/
+  - name: tacxtv.fr
+    url: https://tacxtv.fr
 
 workflowSchedule:
   uptime: "*/15 * * * *"
