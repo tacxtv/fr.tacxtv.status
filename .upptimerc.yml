@@ -6,6 +6,8 @@ sites:
     url: https://eco.tacxtv.fr/
   - name: tacxtv.fr
     url: https://tacxtv.fr
+  - name: miratopia.tacxtv.fr
+    url: https://miratopia.tacxtv.fr
 
 workflowSchedule:
   uptime: "*/15 * * * *"
