@@ -60,17 +60,19 @@
     "url": "https://miratopia.tacxtv.fr",
     "icon": "https://icons.duckduckgo.com/ip3/miratopia.tacxtv.fr.ico",
     "slug": "miratopia-tacxtv-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 277,
-    "timeWeek": 255,
-    "timeMonth": 288,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 291,
+    "timeDay": 307,
+    "timeWeek": 264,
+    "timeMonth": 291,
+    "timeYear": 291,
+    "dailyMinutesDown": {
+      "2025-09-08": 0
+    }
   }
 ]
